@@ -1,0 +1,8 @@
+*/build_debug/*
+
+*/build_release/*
+
+*/release/*
+
+.vscode/
+*/.vscode/
